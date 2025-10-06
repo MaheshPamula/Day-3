@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Mahesh</h1>
+    <h3>Self-Motivated | Smart Working</h3>
+  </header>
+
+  <figure>
+    <img src="D:\personal documents\New folder\photo and sign/myphoto.jpeg" alt="Mahesh" width="200">
+    <figcaption>This is me, Mahesh.</figcaption>
+  </figure>
+
+  <section>
+    <h2>My Skills</h2>
+    <p>HTML</p>
+    <progress value="90" max="100"></progress>
+    <p>CSS</p>
+    <progress value="70" max="100"></progress>
+    <p>JavaScript</p>
+    <progress value="50" max="100"></progress>
+    <h3>Confidence Level</h3>
+    <meter value="0.8" min="0" max="1">80%</meter>
+  </section>
+  <section>
+    <h2>Audio Intro</h2>
+    <audio controls>
+      <source src="intro.mp3" type="audio/mpeg">
+    </audio>
+  </section>
+  <section>
+    <h2>Introduction Video</h2>
+    <video width="400" controls>
+      <source src="intro.mp4" type="video/mp4">
+    </video>
+  </section>
+  <footer>
+    <h2>Contact</h2>
+    <address>
+      Mail: mhspml1@gmail.com <br>
+      Location: Guntur, Andhra Pradesh
+    </address>
+    <p>
+      Last updated on: 
+      <time datetime="2025-09-26">September 25, 2025</time>
+    </p>
+  </footer>
+</body>
+</html>
