@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FAQ Page - Mahesh Pamula</title>
+</head>
+<body>
+  <header>
+    <h1>FAQ - Learn HTML Basics</h1>
+  </header>
+
+  <section>
+    <h2>Frequently Asked Questions</h2>
+
+    <details>
+      <summary>What is HTML?</summary>
+      <p>HTML means HyperText Markup Language. It is used to create web pages.</p>
+    </details>
+
+    <details>
+      <summary>What are HTML tags?</summary>
+      <p>HTML tags are used to define different elements like headings, paragraphs, and images.</p>
+    </details>
+
+    <details>
+      <summary>What is the latest version of HTML?</summary>
+      <p>The latest version is HTML5. It includes new features for videos, audio, and better structure.</p>
+    </details>
+  </section>
+
+  <section>
+    <h2>Watch: Learn HTML Basics</h2>
+    <iframe 
+      width="560" 
+      height="315" 
+      src="https://www.youtube.com/embed/UB1O30fR-EE" 
+      title="Learn HTML Basics - Video"
+      frameborder="0" 
+      allowfullscreen>
+    </iframe>
+  </section>
+
+  <footer>
+    <p>Created by Mahesh Pamula</p>
+    <p>Last updated on: <time datetime="2025-10-06">October 6, 2025</time></p>
+  </footer>
+</body>
+</html>
